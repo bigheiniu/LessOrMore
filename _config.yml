@@ -6,9 +6,9 @@ url: https://bigheiniu.github.io/
 #resume_site: http://www.hifreud.com/Resume.io/ 个人简历网站
 github: https://github.com/bigheiniu
 baseurl: ''
-description: 这是一个描述!
+description: bigheiniu 杂记
 meta_description: 哈哈
-motto: I am the fattest.
+motto: Share as bigheiniu.
 banner: 爸爸吧
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
